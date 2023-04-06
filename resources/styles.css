@@ -2,6 +2,22 @@ body {
     background-color: lightgrey;
 }
 
+
+ nav ul {
+    background-color: red;
+    margin: 0;
+    padding: 0;
+    height: 20px;
+}
+
+ nav li {
+   display: inline-block;
+   list-style: none;
+   width: 50px;
+   
+   
+}
+
 div {
     text-align: center;
 }
@@ -13,4 +29,14 @@ img {
 
 h1 {
     text-align: center;
+}
+
+/* Contact */
+
+.contain {
+    text-align: center;
+}
+
+li {
+    list-style: none;
 }
