@@ -3,16 +3,19 @@ body {
 }
 
 
+
  nav ul {
     background-color: red;
+    font-size: 22px;
     margin: 0;
     padding: 0;
-    height: 20px;
+    height: 45SSSSpx;
 }
 
  nav li {
    display: inline-block;
    list-style: none;
+   padding: 10px;
    width: 50px;
    
    
@@ -25,6 +28,7 @@ div {
 img {
     width: 150px;
     height: 150px;
+    padding-top: 30px;
 }
 
 h1 {
@@ -39,4 +43,10 @@ h1 {
 
 li {
     list-style: none;
+}
+
+li:hover {
+    
+    background-color: gray;
+    width: auto;
 }
