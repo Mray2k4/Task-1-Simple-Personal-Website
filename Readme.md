@@ -1,15 +1,15 @@
 # Simple Personal Website
 
-A simple website with just HTML and CSS
+*A simple website with just HTML and CSS*
 
 [See it here:](https://github.com/Mray2k4/Task-1-Simple-Personal-Website.git)
 
 ![Front Page](/resources/images/Screenshot%20Front%20Page.jpg)
 
-### Summary
+## Summary
 
-A basic website with page changing functions. Just HTML and CSS.
+A basic website with page changing functions. Nothing too face, has a little CSS in it.
 
-### Author
+## Author
 
 * **Marque Ray** - Training to become a Software Developer
