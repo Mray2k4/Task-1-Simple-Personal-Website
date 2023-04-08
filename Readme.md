@@ -8,7 +8,7 @@
 
 ## Summary
 
-A basic website with page changing functions. Nothing too face, has a little CSS in it.
+A basic website with page changing functions. Nothing too fancy, has a little CSS in it.
 
 ## Author
 
