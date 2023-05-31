@@ -12,4 +12,4 @@ A basic website with page changing functions. Nothing too fancy, has a little CS
 
 ## Author
 
-* **Marque Ray** - Software Developer
+**Marque Ray** - *Software Developer*
